@@ -3,9 +3,6 @@
 This is a simple e-commerce frontend built with **React**, **Bootstrap**, and **Vite**.  
 It uses the **Fake Store API** to fetch and display products.
 
-## Live Demo
-Coming soon...
-
 ## Features
 - Product listing and details
 - Clean and responsive UI
